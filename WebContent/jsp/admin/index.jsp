@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <script type="text/javascript" src="js/libs/modernizr.min.js"></script>
+</head>
+<body> 
+ <div class="result-title" style="text-align:center;color:orange">
+<h1>首页</h1>
+</div>
+<div class="result-content" style="text-align:center">
+<div class="sidebar-title" style="text-align:center">
+<h1>欢迎来到房屋租赁系统！</h1>
+        </div>
+        </div>
+       </body>
+</html>
